@@ -9,4 +9,3 @@ Reduced recruitment time and costs, leading to enhanced productivity and resourc
 
 📈 **Results:** The automated system accurately categorizes resumes, enabling recruiters to focus on qualified candidates and make data-driven hiring decisions faster.
 
-🌟 **Impact:** By automating tedious and time-consuming tasks, we empower HR teams to prioritize strategic initiatives, enhance candidate experience, and drive organizational growth.
